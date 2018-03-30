@@ -1,0 +1,23 @@
+{
+  "name": "colorful-dots-ghost-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "Eric David Smith",
+    "email": "eric@colorfuldots.com",
+    "url": "https://colorfuldots.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColorfulDots/colorful-dots-ghost-theme.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColorfulDots/colorful-dots-ghost-theme/issues"
+  },
+  "homepage": "https://github.com/ColorfulDots/colorful-dots-ghost-theme#readme"
+}
